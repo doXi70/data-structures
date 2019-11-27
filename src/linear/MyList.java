@@ -48,7 +48,7 @@ public interface MyList {
     /**
      * Retrieve index of certain element
      *
-     * @param index the element to find
+     * @param element the element to find
      * @return the object that is on the given position, or -1 if the object does not exist in the collection
      */
     int indexOf(Object element);
